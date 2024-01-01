@@ -10,6 +10,6 @@ Evaluated the percentage of sales by pizza category and size.
 Identified top and bottom performers based on revenue, quantity, and total orders.
 Tools Used: T-SQL, SQL Server Management Studio (SSMS)
 
-View Full Code: SQLQuery1.sql
+View Full Code: https://github.com/adeagbaje/Pizza-Sales-Analysis---T-SQL-Project/blob/4e118dd9ec520a744dbfe2c565ad0c2067d41cbe/SQLQuery1.sql
 
 This project showcases my proficiency in T-SQL and data analysis, providing valuable insights for optimizing pizza sales strategies.
